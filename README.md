@@ -1,1 +1,2 @@
-# ICI_Main
+# ICI_Project
+Repo for front-end
